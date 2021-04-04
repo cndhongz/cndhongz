@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/cndhongz/cndhongz/blob/main/work-life-balance.jpg?raw=true" />
+<img src="https://github.com/cndhongz/cndhongz/blob/master/work-life-balance.jpg?raw=true" />
